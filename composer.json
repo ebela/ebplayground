@@ -1,0 +1,13 @@
+{
+    "name": "ebela/ebplayground",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ebela",
+            "email": "bela@dandre.hu"
+        }
+    ],
+    "require": {
+        "php": "^7.2.0"
+    }
+}
